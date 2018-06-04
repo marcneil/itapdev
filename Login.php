@@ -92,7 +92,7 @@
         <title>TRIPLE MMM SERVICES</title>
     </head>
     <body class="w3-khaki">
-        <header class="w3-container w3-khaki" id="identify01"><a href="home.php" style="text-decoration:none;"><img src="logoservice.png" style="height:150px;width:150px;" align="center"> TRIPLE MMM Services</a></header>
+        <header class="w3-container w3-khaki" id="identify01"><a href="index.php" style="text-decoration:none;"><img src="logoservice.png" style="height:150px;width:150px;" align="center"> TRIPLE MMM Services</a></header>
         <article class="w3-yellow">
 			<div class="w3-container w3-black w3-display-center w3-padding-16" id="ios1">
 			<?php
