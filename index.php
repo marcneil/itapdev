@@ -97,7 +97,7 @@
 		</header>
         <nav>
             <ul class="w3-navbar w3-black">
-                <li><a href="home.php">HOME</a></li>
+                <li><a href="index.php">HOME</a></li>
                 <li class="w3-right"><a href="Login.php">LOGIN</a></li>
 				<li class="w3-right"><a href="Register.php">New User? REGISTER Here!</a></li>
             </ul>
