@@ -207,7 +207,7 @@
 						<input type="password" placeholder="Repeat Password" name="psw_repeat" required>
 
 						<div class="clearfix">
-						  <a href="home.php"><button type="button" class="cancelbtn">Cancel</button></a>
+						  <a href="index.php"><button type="button" class="cancelbtn">Cancel</button></a>
 						  <button type="submit" name="signup" class="signupbtn">Sign Up</button>
 						</div>
 					</div>
