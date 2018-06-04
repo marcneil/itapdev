@@ -164,7 +164,7 @@
         <header class="w3-container w3-khaki" id="identify01"><a href="home.php" style="text-decoration:none;"><img src="logoservice.png" style="height:150px;width:150px;" align="center"> TRIPLE MMM Services</a></header>
         <nav>
             <ul class="w3-navbar w3-black">
-				<li><a href="home.php">HOME</a></li>
+				<li><a href="index.php">HOME</a></li>
                 <li class="w3-right"><a href="Login.php">LOGIN</a></li>
 				<li class="w3-right"><a href="Register.php">New User? REGISTER Here!</a></li>
             </ul>
