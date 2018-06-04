@@ -115,7 +115,7 @@
 			
 					<div class="clearfix">
 					  <button type="submit" name="login" class="LOGinbtn">Log In</button>
-					  <a href="home.php"><button type="button" class="cancelbtn">Cancel</button></a>
+					  <a href="index.php"><button type="button" class="cancelbtn">Cancel</button></a>
 					</div>
 				  </div>
 				  <div class="w3-container w3-half">
